@@ -204,7 +204,7 @@
       <updated>1532828827947</updated>
       <workItem from="1532828829614" duration="593000" />
       <workItem from="1532830810793" duration="583000" />
-      <workItem from="1532831562861" duration="23582000" />
+      <workItem from="1532831562861" duration="24261000" />
     </task>
     <task id="LOCAL-00001" summary="更新说明">
       <created>1532840270790</created>
@@ -227,16 +227,24 @@
       <option name="project" value="LOCAL" />
       <updated>1532876081281</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="增加用户信息模块">
+      <created>1532876449752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532876449752</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24758000" />
+    <option name="totallyTimeSpent" value="25437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="109" y="73" width="1248" height="750" extended-state="0" />
+    <frame x="109" y="73" width="1248" height="750" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32967034" />
