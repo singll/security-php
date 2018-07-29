@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da3faa13-1e94-4438-9879-4592bed8bc43" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Security-php/info.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Security-php/static/css/info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Security-php/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Security-php/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Security-php/login1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Security-php/login1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Security-php/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Security-php/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Security-php/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Security-php/static/js/bootstrap.min.js" afterDir="false" />
-    </list>
+    <list default="true" id="da3faa13-1e94-4438-9879-4592bed8bc43" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +204,7 @@
       <updated>1532828827947</updated>
       <workItem from="1532828829614" duration="593000" />
       <workItem from="1532830810793" duration="583000" />
-      <workItem from="1532831562861" duration="23336000" />
+      <workItem from="1532831562861" duration="23582000" />
     </task>
     <task id="LOCAL-00001" summary="更新说明">
       <created>1532840270790</created>
@@ -227,15 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532841419577</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="增加用户信息模块">
+      <created>1532876081281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532876081281</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24512000" />
+    <option name="totallyTimeSpent" value="24758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="73" width="1248" height="750" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959481" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -267,7 +266,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="更新说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新说明" />
+    <MESSAGE value="增加用户信息模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加用户信息模块" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Security-php/conn.php">
