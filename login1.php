@@ -23,6 +23,7 @@ $result = $stmt->fetchAll(PDO::FETCH_ASSOC); //将结果由对象转换为数组
 //判断是否登陆成功，成功则显示，失败跳转回登陆界面
 if ($result != null) {
     echo "登陆成功".$result[0]['name']; //显示出登陆用户名
+    echo "<meta http-equiv=\"refresh\" content=\"5;url=info.php?id=".$result[0]['id']."\">";
 } else {
 
     echo "登陆失败，正在跳转";
